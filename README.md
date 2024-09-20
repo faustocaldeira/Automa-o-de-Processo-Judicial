@@ -1,6 +1,7 @@
 # Automação de Processo Judicial
 
 Este script automatiza a extração de dados de processos judiciais de um portal público utilizando Selenium.
+Este script foi testado em uma máquina Windows e é fortemente recomendado criar um ambiente virtual (virtual environment) para sua execução.
 
 ## Requisitos
 
